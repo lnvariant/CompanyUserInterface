@@ -18,7 +18,7 @@ This project is a user interface (UI) that was designed and developed for a biom
 ![](newstudyu.gif)
 
 ### Image Viewer Type I
-![](ICE.png)
+![](ICE2.png)
 
 ### Image Viewer Type 2
 ![](imageviewer.gif)
