@@ -25,4 +25,4 @@ This project is a user interface (UI) that was designed and developed for a biom
 ![](imageviewer.gif)
 
 ### Activity Monitor
-![](ActivityMonitor.gif)
+![](ActivityMonitor.PNG)
