@@ -23,5 +23,11 @@ This project is a user interface (UI) that was designed and developed for a biom
 ### Image Viewer Type 2
 ![](imageviewer.gif)
 
+### Troubleshoot 1
+![](Eject_Reconnect.gif)
+
+### Troubleshoot 2
+![](Eject-reconnect.gif)
+
 ### Activity Monitor
 ![](ActivityMonitor.PNG)
